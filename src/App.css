@@ -1,0 +1,15 @@
+.Wrapper {
+  position: relative;
+}
+
+.Inner {
+  position: absolute;
+}
+
+.Download {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
